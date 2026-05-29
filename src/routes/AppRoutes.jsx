@@ -8,7 +8,7 @@ import { Routes, Route } from "react-router-dom";
 import ProtectedRoute from "./ProtectedRoute";
 import Applications from "../pages/Applications";
 import ResumePage from "../pages/ResumePage";
-import AIFeedback from "../pages/AIFeedback";
+import AIFeedback from "../pages/AiFeedback";
 import CoverLetters from "../pages/CoverLetters";
 import SkillGapAnalyses from "../pages/SkillGapAnalysis";
 
